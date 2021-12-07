@@ -1,0 +1,13 @@
+.active{
+	color: green;
+}
+.inactive{
+	color: red;
+}
+.delete-agent{
+	color: #fff;
+    font-size: 18px;
+    padding: 2px 6px;
+    background:#c70505;
+    border-radius: 5px;
+}

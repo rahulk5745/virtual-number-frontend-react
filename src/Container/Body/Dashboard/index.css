@@ -1,0 +1,9 @@
+.dashboard-card{
+	min-height: 172px;
+}
+.dashboard-card-heading{
+	font-size: 25px;
+}
+.dashboard-card-data{
+	font-size: 4.3125rem;
+}

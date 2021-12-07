@@ -1,0 +1,50 @@
+.active{
+	color: green;
+}
+.inactive{
+	color: red;
+}
+.delete-agent{
+	color: #fff;
+    font-size: 18px;
+    padding: 2px 6px;
+    background:#c70505;
+    border-radius: 5px;
+}
+.widget-list-table-cont .search-label{
+	max-width: 300px;
+    display: inline-block !important;
+    margin-right: 18px;
+}
+.widget-list-table-cont .export-csv {
+	float:right;
+}
+.widget-list-table-cont .dropdown-menu, #pageDropDown{
+	background-color: #fff;
+}
+
+.widgetlist-table{
+	background-color: #fff;
+}
+
+.detailed-report-link .fa{
+margin-right: 6px;
+}
+@media (min-width: 992px){
+.modal-lg {
+    max-width: 650px;
+}
+}
+
+.code-copied{
+	background:#ececec;
+	padding: 10px;
+}
+
+.delete-widget{
+	color: #fff;
+    font-size: 18px;
+    padding: 2px 6px;
+    background:#c70505;
+    border-radius: 5px;
+}

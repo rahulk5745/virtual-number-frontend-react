@@ -1,0 +1,78 @@
+.active{
+	color: green;
+}
+.inactive{
+	color: red;
+}
+.delete-agent{
+    color: #fff;
+    font-size: 18px;
+    padding: 2px 6px;
+    background:#c70505;
+    border-radius: 5px;
+}
+
+.callnow-btn{
+	margin-right: 8px;
+}
+
+.row{
+  font-size: 14px;
+  color: black;
+  padding: 5px 0px;
+}
+
+.firstCol{
+    text-align: left !important
+}
+
+/* .valCol{
+  text-align: left !important
+} */
+
+.buttGroup{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.success{
+    color: green;
+}
+
+.btnGAp{
+    margin-right: 30px;
+}
+/* .input-group {
+    width: 300px !important;
+  } */
+
+  .checks{
+      text-align: center;
+      width: 100%;
+      margin: auto;
+  }
+
+  .form-inline {
+    width: 200px;
+  }
+
+  
+  /* .input-group {
+    width: 300px !important;
+  } */
+
+  .customButton{
+    border-radius: 5px;
+    font-size: 14px;;
+  }
+
+ .whatsUp:hover{
+  box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+  border-radius: 6px;
+ }
+  
+  @media only screen and (max-width: 600px) {
+    .input-group {
+        width: 300px !important;
+      }
+  }

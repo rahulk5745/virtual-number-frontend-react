@@ -1,0 +1,32 @@
+.sidebar{
+	background: #2f353a;
+}
+.nav-heading>a.dropdown-toggle{
+	display: none;
+}
+
+.sidebar-nav .dropdown-item{
+	border-bottom: 0px solid #fff;
+	font-size: 15px;
+	padding-left: 35px;
+	color: #fff;
+}
+.dropdown-item i{
+	color: #fff;
+}
+.sidebar-nav .dropdown-item:hover{
+    background: #20a8d8;
+border-radius: 0px;
+}
+.sidebar-nav .dropdown-menu a:first-child{
+margin-top: 12px;
+}
+.navbar-toggler{
+	outline: none !important;
+}
+.nav-desktop  .navbar-brand{
+display: inline-block !important;
+}
+.dropdown-menu{
+	width: 100%;
+}

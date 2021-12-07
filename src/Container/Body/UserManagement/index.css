@@ -1,0 +1,35 @@
+.delete-user {
+    color: #fff;
+    font-size: 18px;
+    padding: 2px 6px;
+    background: #c70505;
+    border-radius: 5px;
+}
+.edit-user {
+    color: #fff;
+    font-size: 18px;
+    padding: 2px 6px;
+    background:grey;
+	border-radius: 5px;
+	margin-right: 10px;
+}
+.add-credit {
+    color: #fff;
+    font-size: 18px;
+    padding: 2px 6px;
+    background: green;
+	border-radius: 5px;
+	margin-right: 10px;
+}
+.avail-credit-cont{
+	width: 90%;
+	display: inline-block;
+	text-align: right;
+}
+.credits-avail
+{
+    /*background-color:#4285f4;*/
+    color:#FFFFFF;
+	padding: 12px;
+    font-size: medium;
+}

@@ -1,0 +1,16 @@
+.react-datepicker-wrapper{
+	display: block;
+}
+.add-campaign-form label{
+	font-weight: bold;
+}
+input[type="text"].form-control{
+    border-top: 0px;
+    border-bottom: 1px solid #777b80;
+    border-radius: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+input[type="text"].form-control:focus{
+	box-shadow:none;
+}
